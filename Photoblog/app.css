@@ -1,0 +1,13 @@
+img{
+    width:30%;
+    margin:1.6666%
+}
+nav{
+    font-family: 'Oswald', sans-serif;
+    font-size:1.4rem;
+    padding-bottom:8px;
+    width:35%;
+    border-bottom: solid rgba(146,146,146,0.7) ;
+    border-bottom-width:1.5px ;
+
+}
